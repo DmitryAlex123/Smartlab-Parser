@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MMVB Parser:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82874398-9265-476d-bc39-99d813daff56" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UWcoTQSfo7e11O9AadJIRJ5ama" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MMVB Parser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82874398-9265-476d-bc39-99d813daff56" name="Default Changelist" comment="" />
+      <created>1575475966750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575475966750</updated>
+      <workItem from="1575475968381" duration="1328000" />
+      <workItem from="1575477318708" duration="1791000" />
+      <workItem from="1575479131231" duration="1770000" />
+      <workItem from="1575480950731" duration="1277000" />
+      <workItem from="1575482763322" duration="1360000" />
+      <workItem from="1575484743292" duration="1717000" />
+      <workItem from="1575486553237" duration="89000" />
+      <workItem from="1575486647136" duration="1694000" />
+      <workItem from="1575488368975" duration="1792000" />
+      <workItem from="1575490182925" duration="1788000" />
+      <workItem from="1575491993306" duration="1788000" />
+      <workItem from="1575493804587" duration="1790000" />
+      <workItem from="1575495615559" duration="1789000" />
+      <workItem from="1575497426957" duration="1790000" />
+      <workItem from="1575499323494" duration="1789000" />
+      <workItem from="1575501135228" duration="1110000" />
+      <workItem from="1575566463159" duration="598000" />
+      <workItem from="1575571519465" duration="1767000" />
+      <workItem from="1575573307555" duration="1535000" />
+      <workItem from="1575619912173" duration="857000" />
+      <workItem from="1576066318918" duration="654000" />
+      <workItem from="1576730036357" duration="520000" />
+      <workItem from="1577199221431" duration="889000" />
+      <workItem from="1577475277344" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
